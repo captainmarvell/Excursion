@@ -1,0 +1,36 @@
+/* Entire Site Styling */
+body {
+    background-color: black;
+    font-family: Verdana, sans-serif; 
+    color: white;  
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+/* Headers */
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 42px; 
+    font-weight: 300;
+}
+/* Main Text  */
+p {
+    color: gray;
+    font-size: 21px;
+}
+/* Links */
+a {
+    color: aquamarine;
+}
+.clickthru {
+    font-size: 16px;
+}
+/* Footer */
+.footer {
+    text-align: right;
+    color: grey;
+}
